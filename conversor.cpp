@@ -20,6 +20,7 @@ printf ( " km =? " ) ;
 scanf ( " % f " ,& x ) ;
 printf ( " m =%f " , x * 1000) ;
 }
+sssssssssssssssssssssssssssssssssssssssssssss
 break ;
 case 2:
 printf ( " Por implementar " ) ;
